@@ -1,0 +1,6 @@
+org\example\Clinic.class
+org\example\Main.class
+org\example\File.class
+org\example\Patient.class
+org\example\TriageType.class
+org\example\VisibleSymptom.class
